@@ -1,5 +1,5 @@
 baseURL = "bcaradima.github.io"
-
+publishDir = "docs"
 # set your your own ga token here.
 #googleAnalytics = "UA/G-123123-12"
 
