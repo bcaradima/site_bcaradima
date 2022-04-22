@@ -1,4 +1,5 @@
-This Hugo website is adapted from the [Avicenna theme](https://themes.gohugo.io/themes/avicenna/) developed by Hadi Sinaee. The Avicenna theme is in turn adapted from the [Academic theme](https://themes.gohugo.io/themes/hugo-academic/).
+# Readme
+Website adapted from the [Avicenna theme](https://github.com/hadisinaee/avicenna) for Hugo. The Avicenna theme is in turn adapted from the [Academic theme](https://themes.gohugo.io/themes/hugo-academic/).
 
 My minor changes to the Avicenna theme include:
 

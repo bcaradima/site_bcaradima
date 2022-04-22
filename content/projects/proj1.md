@@ -1,5 +1,5 @@
 ---
-title: "Human Impacts Project: analyzing community composition in Swiss rivers"
+title: "2016-2020 Human Impacts Project at Eawag: Swiss Federal Institute of Aquatic Science & Technology"
 
 date: "2020-01-01"
 
