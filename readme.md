@@ -3,15 +3,15 @@ Website adapted from the [Avicenna theme](https://github.com/hadisinaee/avicenna
 
 Minor changes to the Avicenna theme include:
 
-- disabled news feed, blog, and CV
-- changed the Academia header to Education (edit: `themes/avicenna/layouts/partials/about/interests_academia.html`
-- modified the presentation of the education bullet points
-- modified the affiliation sections
-- modified color scheme at `/themes/avicenna/static/css/style.css`
+- disabled news, blog, and CV for now
+- changed the Academia header to Education (edit: `themes/avicenna/layouts/partials/about/interests_academia.html`)
+- improved the presentation of the education items
+- modified the affiliations
+- adjusted color scheme in `/themes/avicenna/static/css/style.css`
 
 to do
 
-- add news section, for e.g.
+- maybe add news? for instance:
 https://www.eawag.ch/en/news-agenda/news-portal/news-detail/improved-health-check-for-running-waters/
 - add projects
 - change red color of headers in `style.css`
