@@ -1,3 +1,7 @@
+---
+permalink: /docs/index.html
+---
+
 # Readme
 Website adapted from the [Avicenna theme](https://github.com/hadisinaee/avicenna) for Hugo. The Avicenna theme is in turn adapted from the [Academic theme](https://themes.gohugo.io/themes/hugo-academic/).
 
