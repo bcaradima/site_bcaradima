@@ -32,7 +32,7 @@ interests:
 - Statistical modelling and Bayesian inference
 - Statistical computing and spatial data processing and analysis
 - Data analysis and data visualization techniques
-- Computing with Linux and free open source software
+- Learning Linux and other free open source software for daily use
 profile_picture: profile.png
 socials:
   github: bcaradima
@@ -42,10 +42,10 @@ title: about
 
 I am currently a data scientist and aquatic ecologist at [Ecofish Research](https://www.ecofishresearch.com/).
 
-During my doctoral research at ETH Zurich, I applied statistical models and data analysis techniques to quantify how stream invertebrate and fish communities respond to natural and anthropogenic environmental conditions in Swiss rivers.
+In 2020, I completed my PhD at ETH Zurich while working at Eawag (the Swiss Federal Institute for Aquatic Science & Technology). In my doctoral research, I applied statistical species distribution models (SDMs) to quantify how stream invertebrate and fish communities respond to natural and anthropogenic environmental conditions in Swiss rivers.
 
-I am particularly interested in (i) applying Bayesian methods to quantify model uncertainty and uncertainty in species' responses to model inputs, and (ii) analyzing model results to derive practical recommendations for improving ecosystem monitoring, management, and conservation.
+In developing these SDMs, I gained a foundational knowledge in statistical modelling approaches and the model development process. I also became proficient in using multiple programming languages (e.g., R, Python) and GIS software tools (e.g., ArcGIS, QGIS) to process, analyze, and visualize a wide variety of environmental datasets (biomonitoring data, land use data, etc) and model results.
 
-In developing these models, I process and analyze a wide variety of datasets using multiple programming languages (Python, R) and GIS software suites (ArcGIS, QGIS, and PostgreSQL/PostGIS), although I increasingly prefer R for the entire model development process. I am also a proponent of using free and open source software in the sciences to support reproducible scientific research.
+Although I am broadly interested in ecological modelling and species distribution modelling, I am particularly interested in (i) applying Bayesian methods to quantify model uncertainty and the inference of species responses to environmental conditions, and (ii) using model-based analyses to derive practical recommendations for improving ecosystem monitoring, management, and conservation.
 
-If I'm not processing data or analyzing model results, I am usually playing badminton, fly fishing, practicing photography, or experimenting with Raspberry Pi projects.
+If I'm not processing data or developing models, I enjoy playing badminton, learning fly fishing, practicing photography, or experimenting with Linux or Raspberry Pi projects.
