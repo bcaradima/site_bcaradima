@@ -48,4 +48,4 @@ In developing these SDMs, I gained a foundational knowledge in statistical model
 
 Although I am broadly interested in ecological modelling and species distribution modelling, I am particularly interested in (i) applying Bayesian methods to quantify model uncertainty and the inference of species responses to environmental conditions, and (ii) using model-based analyses to derive practical recommendations for improving ecosystem monitoring, management, and conservation.
 
-If I'm not processing data or developing models, I enjoy playing badminton, learning fly fishing, practicing photography, or experimenting with Linux or Raspberry Pi projects.
+In my spare time, I enjoy playing badminton, learning fly fishing, practicing photography, and experimenting with Linux or Raspberry Pi hardware.
