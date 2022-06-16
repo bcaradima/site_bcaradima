@@ -1,11 +1,14 @@
 ---
-title: "Deploying and analyzing suitability analysis across a large spatial extent: an example of retail site-selection in Ontario, Canada"
+title: "Umwelteinflüsse auf Häufige Fischgattungen: Auswertung von Fisch-monitoring-Programmen"
 authors:
-- Robinson, D.
+- Schuwirth, N.
+- Brodersen, B.
 - Caradima, B.
-date: "2022-01-01"
+- Scheidegger, A.
+date: "2022-06-01"
 
-publication: "International Regional Science Review (in press)"
+publication: "Aqua & Gas"
 
 links:
+    pdf:  https://www.dora.lib4ri.ch/eawag/islandora/object/eawag:24993
 ---
