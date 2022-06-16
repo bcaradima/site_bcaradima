@@ -17,7 +17,7 @@ https://www.eawag.ch/en/news-agenda/news-portal/news-detail/improved-health-chec
 - change red color of headers in `style.css`
 
 ## Usage
-`site_baradima` is where the website content is edited and updated. Build the website and deploy it to `/site_bcaradima/docs`, then commit static website files in `docs` to `bcaradima.github.io`.
+`site_bcaradima` is where the website content is edited and updated. Build the website and deploy it to `/site_bcaradima/docs`, then commit static website files in `docs` to `bcaradima.github.io`.
 
 * `cd` into `site_bcaradima`
 * run `hugo`
