@@ -17,9 +17,9 @@ education:
     end_date: "2013"
 affiliations:
 - affiliation:
-    email: b.caradima@gmail.com / bcaradima@ecofish.ca
+    email: b.caradima_at_gmail.com / bcaradima_at_ecofishresearch.com
     name: Ecofish Research
-    title: Data Scientist and Aquatic Ecologist
+    title: Data Scientist / Aquatic Ecologist
 # blog: true
 # cv: cv.pdf
 date: "2020-10-20T17:51:47+03:30"
@@ -32,7 +32,7 @@ interests:
 - Statistical modelling and Bayesian inference
 - Statistical computing and spatial data processing and analysis
 - Data analysis and data visualization techniques
-- Learning Linux and other free open source software for daily use
+- Learning Linux and other free open source software for daily computing
 profile_picture: profile.png
 socials:
   github: bcaradima
@@ -46,6 +46,12 @@ In 2020, I completed my PhD at ETH Zurich while working at Eawag (the Swiss Fede
 
 In developing these SDMs, I gained a foundational knowledge in statistical modelling approaches and the model development process. I also became proficient in using multiple programming languages (e.g., R, Python) and GIS software tools (e.g., ArcGIS, QGIS) to process, analyze, and visualize a wide variety of environmental datasets (biomonitoring data, land use data, etc) and model results.
 
-Although I am broadly interested in ecological modelling and species distribution modelling, I am particularly interested in (i) applying Bayesian methods to quantify model uncertainty and the inference of species responses to environmental conditions, and (ii) using model-based analyses to derive practical recommendations for improving ecosystem monitoring, management, and conservation.
+While broadly interested in ecological modelling and species distribution modelling, I am particularly interested in (i) applying Bayesian methods to quantify model uncertainty and the inference of species responses to environmental conditions, and (ii) using model-based analyses to derive practical recommendations for improving ecosystem monitoring, management, and conservation.
 
-In my spare time, I enjoy playing badminton, learning fly fishing, practicing photography, and experimenting with Linux or Raspberry Pi hardware.
+In my spare time, I enjoy the following hobbies:
+
+* competitive badminton (doubles)
+* fly fishing
+* photography (macros, landscape, and vintage photography)
+* daily computing with Linux (currently using Arch Linux)
+* playing with Raspberry Pi computers

@@ -1,15 +1,16 @@
 ---
-title: "Effects of site selection and taxonomic resolution on the inference of stream invertebrate responses to environmental conditions"
+title: "Bridging mechanistic conceptual models and statistical species distribution models of riverine fish"
 authors:
 - Caradima, B.
-- Reichert, P.
+- Scheidegger, A.
+- Brodersen, J.
 - Schuwirth, N.
-date: "2020-01-01"
+date: "2021-01-01"
 
-publication: "Freshwater Science"
+publication: "Ecological Modelling"
 
 links:
-    doi: https://doi.org/10.1086/709024
-    pdf: https://www.dora.lib4ri.ch/eawag/islandora/object/eawag:21111
-    code: https://github.com/bcaradima/inv_sdm
+    doi: http://doi.org/10.1016/j.ecolmodel.2021.109680
+    pdf: https://www.dora.lib4ri.ch/eawag/islandora/object/eawag:23436
 ---
+

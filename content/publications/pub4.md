@@ -1,14 +1,15 @@
 ---
-title: "Analyse schweizweiter Makrozoobenthosdaten. Erkenntnisse über anthropogene Einflüsse und Monitoring-Design"
+title: "Effects of site selection and taxonomic resolution on the inference of stream invertebrate responses to environmental conditions"
 authors:
-- Schuwirth, N.
 - Caradima, B.
-- Schindler Wildhaber, Y.
-- Sarbach-Remund, N.
-date: "2019-01-01"
+- Reichert, P.
+- Schuwirth, N.
+date: "2020-01-01"
 
-publication: "Aqua & Gas"
+publication: "Freshwater Science"
 
 links:
-    pdf: https://www.dora.lib4ri.ch/eawag/islandora/object/eawag:19693
+    doi: https://doi.org/10.1086/709024
+    pdf: https://www.dora.lib4ri.ch/eawag/islandora/object/eawag:21111
+    code: https://github.com/bcaradima/inv_sdm
 ---
