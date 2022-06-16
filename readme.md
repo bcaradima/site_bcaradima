@@ -9,9 +9,11 @@ Minor changes to the Avicenna theme include:
 - modified the affiliations
 - adjusted color scheme in `/themes/avicenna/static/css/style.css`
 
-to do
+## Items
 
 - maybe add news? for instance:
 https://www.eawag.ch/en/news-agenda/news-portal/news-detail/improved-health-check-for-running-waters/
 - add projects
 - change red color of headers in `style.css`
+
+## Usage
