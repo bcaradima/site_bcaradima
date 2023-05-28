@@ -19,6 +19,8 @@ https://www.eawag.ch/en/news-agenda/news-portal/news-detail/improved-health-chec
 ## Usage
 `site_bcaradima` is where the website content is edited and updated. Build the website and deploy it to `/site_bcaradima/docs`, then commit static website files in `docs` to `bcaradima.github.io`.
 
+Content: ~/site_caradima/content/about/_index.md
+
 * edit `content` as needed, commit and push changes from git repo in `site_bcaradima`
 * `cd` into `site_bcaradima`
 * run `hugo`
