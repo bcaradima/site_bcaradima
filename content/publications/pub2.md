@@ -5,7 +5,7 @@ authors:
 - Caradima, B.
 date: "2022-01-01"
 
-publication: "International Regional Science Review (in press)"
+publication: "International Regional Science Review (2022)"
 
 links:
 ---
