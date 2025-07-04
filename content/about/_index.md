@@ -41,18 +41,19 @@ socials:
 title: about
 ---
 
-I am currently a data scientist and aquatic ecologist at [Ecofish Research](https://www.ecofishresearch.com/).
+I am currently a quantitative ecologist at Stantec. Previously, I was a data scientist and aquatic ecologist at [Ecofish Research](https://www.ecofishresearch.com/).
 
 I completed my PhD at ETH Zurich while working at Eawag (the Swiss Federal Institute for Aquatic Science & Technology). During my doctoral research, I applied statistical species distribution models (SDMs) to quantify how stream invertebrate and fish communities respond to natural and anthropogenic environmental conditions in Swiss rivers.
 
-In developing these SDMs, I gained an interest in statistical modelling approaches and the model development process. I also acquired experience in using multiple programming languages (e.g., R, Python) and GIS software tools (e.g., ArcGIS, QGIS) to process, analyze, and visualize a wide variety of environmental datasets (biomonitoring data, land use data, etc) and model results.
+In developing these SDMs, I deepened my knowledge of statistical modelling approaches and the model development process. I also gained experience in using multiple programming languages (e.g., R, Python) and GIS tools (e.g., ArcGIS, QGIS) to process, analyze, and visualize a variety of environmental datasets (biomonitoring data, land use data, climate data, etc) and model results.
 
-While broadly interested in ecological modelling and species distribution modelling, I am particularly interested in (i) applying Bayesian methods to quantify model uncertainty and the inference of species responses to environmental conditions, and (ii) using models to analyze and derive practical recommendations for improving ecosystem monitoring, management, and conservation.
+ Although I am an aquatic and statistical ecologist by training, in consulting I've worked as a data analyst/scientist, ecologist, and GIS specialist rolled into one. I've been involved in calculating cumulative effects metrics and cumulative effects assessments, habitat suitability analyses of wildlife species, bioacoustic data analyses of birds and bats, and developing spatial statistical models of stream temperatures.
 
-In my spare time, I pursue the following hobbies:
+In my spare time I enjoy the following hobbies:
 
-* badminton (doubles)
-* fly fishing
+* fly fishing (typically dry flies and 3WT setups)
+* freshwater fish-keeping and aquascaping
+* hiking and camping
 * photography (macros, landscape, and vintage photography)
-* everyday computing and occasional experimentation with Linux (current everyday drivers: Arch, Kubuntu, Raspbian)
-* tinkering with Raspberry Pi computers
+* everyday computing with Linux (currently using Arch, Kubuntu, and Raspbian Linux)
+* home networking with Raspberry Pi and NAS server
