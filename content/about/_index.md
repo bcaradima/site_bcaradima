@@ -17,9 +17,9 @@ education:
     end_date: "2013"
 affiliations:
 - affiliation:
-    email: b.caradima_at_gmail.com / bcaradima_at_ecofishresearch.com
-    name: Ecofish Research
-    title: Data Scientist / Aquatic Ecologist
+    email: b.caradima_at_gmail.com 
+    name: Stantec
+    title: Quantitative Ecologist
 # blog: true
 # cv: cv.pdf
 date: "2020-10-20T17:51:47+03:30"
@@ -32,7 +32,7 @@ interests:
 - Statistical computing, modelling, and Bayesian inference
 - Spatial data processing and analysis
 - Data analysis and data visualization techniques
-- Learning Linux and other free open source software for daily computing
+- Learning Linux and free open source software for daily computing
 
 profile_picture: profile.png
 socials:
