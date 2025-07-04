@@ -43,13 +43,11 @@ title: about
 
 I am currently a quantitative ecologist at Stantec. Previously, I was a data scientist and aquatic ecologist at [Ecofish Research](https://www.ecofishresearch.com/).
 
-I completed my PhD at ETH Zurich while working at Eawag (the Swiss Federal Institute for Aquatic Science & Technology). During my doctoral research, I applied statistical species distribution models (SDMs) to quantify how stream invertebrate and fish communities respond to natural and anthropogenic environmental conditions in Swiss rivers.
+Although I am an aquatic and statistical ecologist by training, in consulting I've worked as a data analyst/scientist, ecologist, and GIS specialist simultaneously. I've been involved in cumulative effects assessments, habitat suitability analyses, benthic and fish community analyses, stream temperature modelling, and many other types of projects requiring complex data analyses. 
 
-In developing these SDMs, I deepened my knowledge of statistical modelling approaches and the model development process. I also gained experience in using multiple programming languages (e.g., R, Python) and GIS tools (e.g., ArcGIS, QGIS) to process, analyze, and visualize a variety of environmental datasets (biomonitoring data, land use data, climate data, etc) and model results.
+I completed my PhD at ETH Zurich while working at Eawag (the Swiss Federal Institute for Aquatic Science & Technology). In my doctoral research, I applied statistical species distribution models (SDMs) to quantify how stream invertebrate and fish communities respond to natural and anthropogenic environmental conditions in Swiss rivers. In developing these SDMs, I deepened my knowledge of statistical modelling approaches and the model development process. I also gained experience in using multiple programming languages and GIS tools to process, analyze, and visualize a variety of environmental datasets and model results.
 
- Although I am an aquatic and statistical ecologist by training, in consulting I've worked as a data analyst/scientist, ecologist, and GIS specialist rolled into one. I've been involved in calculating cumulative effects metrics and cumulative effects assessments, habitat suitability analyses of wildlife species, bioacoustic data analyses of birds and bats, and developing spatial statistical models of stream temperatures.
-
-In my spare time I enjoy the following hobbies:
+In my spare time, I enjoy the following hobbies:
 
 * fly fishing (typically dry flies and 3WT setups)
 * freshwater fish-keeping and aquascaping

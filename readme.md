@@ -23,7 +23,7 @@ Content: ~/site_caradima/content/about/_index.md
 
 * edit `content` as needed, commit and push changes from git repo in `site_bcaradima`
 * `cd` into `site_bcaradima`
-* run `hugo`
+* run `hugo` to build static website
 * `cd` into `docs` where static content is updated
 * note there is a git repo in `site_bcaradima` and `docs`
 * use `docs` git to commit changes (`git commit -m "message"`) to static content and push changes to `bcaradima.github.io` (`git push origin master`)
